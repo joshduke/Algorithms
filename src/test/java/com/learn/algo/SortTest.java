@@ -4,6 +4,9 @@ import static org.junit.Assert.assertArrayEquals;
 
 import org.junit.Test;
 
+import com.learn.algo.sort.BubbleSort;
+import com.learn.algo.sort.SelectionSort;
+
 
 public class SortTest {
 	

@@ -1,4 +1,4 @@
-package com.learn.algo;
+package com.learn.algo.sort;
 
 import java.util.Arrays;
 
